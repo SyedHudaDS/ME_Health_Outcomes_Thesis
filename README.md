@@ -8,6 +8,13 @@ Can Socio-economic Factors impact Health Outcomes in Maine? ​
 
 What are the impact of these factors on Healthcare Performance & delivery in different counties in US?
 
+
+
+Introduction:
+
+
+A
+
 Year 2018-2021
 
 Datasets sources:

@@ -10,7 +10,7 @@ Year 2018-2021
 
 Datasets sources:
 
-Year 2018-2021
+
 
 Health Outcomes:
 HRSA https://data.hrsa.gov/tools/data-reporting/program-data/national-lookalikes

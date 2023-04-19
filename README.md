@@ -1,4 +1,4 @@
-# ME Health Outcomes_Thesis
+# ME Health Outcomes Thesis
 
 Research Question: 
 

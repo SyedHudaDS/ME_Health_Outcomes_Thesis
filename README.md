@@ -21,34 +21,52 @@ Dataset (PLEASE REFER TO "Data_Description" FILE FOR DETAILS ON THE INDIVIDUAL F
 
 
 2018_ME_Awardees.xlsx  
+
 2019_ME_Awardees.xlsx
+
 2020_ME_Awardees.xlsx
+
 2021_ME_ Awardees.xlsx
 
 	UDS Reports Yearly-                         HRSA
 	
 Health_Center_Service_Delivery_and_LookAlike_Sites.csv
+
 Facilities.ipynb
+
 lapi1122.xlsx
-Facilities across U.S-                       HRSA 
-          Interactive Map in plotly for Facilities using Geo locations
+
+Facilities across U.S-      
+HRSA 
+
+Interactive Map in plotly for Facilities using Geo locations
 	
 HealthCareData.csv
-	                        Complete processed Dataset
+
+
+Complete processed Dataset
 	
 Income per Capita.csv
+
 Labor Force (NSA).csv
+
 Median House Income.csv
+
 Population.csv
+
 Poverty.csv
+
 Sources Personal Income (BEA).csv
-                                 	Economic Indicators
+
+Economic Indicators
 	
 README.md
-	                                        Instructions
+
+Instructions
 	
 thesis_Task_Hyper.ipynb
-                             	Models/EDA/Visualization
+
+Models/EDA/Visualization
 
 
 
@@ -56,17 +74,28 @@ Datasets sources:
 
 
 Economic Indicators
+
 https://www.maine.gov/labor/cwri/county-economic-profiles/countyProfiles.html
+
 https://www.census.gov/economic-indicators/
 
 HRSA Health Report (2018-2021)
+
 Health Center Program Uniform Data System (UDS) Data Overview
+
 National Health Center Program Uniform Data System (UDS) Look-Alike Data
 
 Health Center Facilities Interactive Map
+
 https://colab.research.google.com/drive/1z6HSgFseVFEmjWOf4-fYhD8Xcw785zCy?usp=sharing
+
+
 UDS Manual 2021 
+
 https://bphc.hrsa.gov/sites/default/files/bphc/data-reporting/2021-uds-manual.pdf
+
+
+
 
 Variables Description
 

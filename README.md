@@ -20,15 +20,24 @@ Federal Qualified Health Centers (FQHC’s) are primary healthcare providers whi
 Dataset (PLEASE REFER TO "Data_Description" FILE FOR DETAILS ON THE INDIVIDUAL FILES)
 
 
+UDS Reports Yearly from HRSA
+
+
+
 2018_ME_Awardees.xlsx  
 
 2019_ME_Awardees.xlsx
 
 2020_ME_Awardees.xlsx
 
-2021_ME_ Awardees.xlsx
+2021_ME_ Awardees.xlsx 
 
-	UDS Reports Yearly-                         HRSA
+
+
+
+
+Interactive Map in plotly for Facilities using Geo locations
+	
 	
 Health_Center_Service_Delivery_and_LookAlike_Sites.csv
 
@@ -36,16 +45,22 @@ Facilities.ipynb
 
 lapi1122.xlsx
 
-Facilities across U.S-      
-HRSA 
+Facilities across U.S HRSA 
 
-Interactive Map in plotly for Facilities using Geo locations
-	
-HealthCareData.csv
+
 
 
 Complete processed Dataset
-	
+
+HealthCareData.csv
+
+
+
+Economic Indicators
+
+
+
+
 Income per Capita.csv
 
 Labor Force (NSA).csv
@@ -58,7 +73,7 @@ Poverty.csv
 
 Sources Personal Income (BEA).csv
 
-Economic Indicators
+
 	
 README.md
 

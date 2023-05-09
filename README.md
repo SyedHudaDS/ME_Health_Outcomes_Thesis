@@ -20,7 +20,7 @@ Federal Qualified Health Centers (FQHC’s) are primary healthcare providers whi
 Dataset (PLEASE REFER TO "Data_Description" FILE FOR DETAILS ON THE INDIVIDUAL FILES)
 
 
-UDS Reports Yearly from HRSA
+UDS Reports Yearly from HRSA:
 
 
 
@@ -36,7 +36,7 @@ UDS Reports Yearly from HRSA
 
 
 
-Interactive Map in plotly for Facilities using Geo locations
+Interactive Map in plotly for Facilities using Geo locations:
 	
 	
 Health_Center_Service_Delivery_and_LookAlike_Sites.csv
@@ -45,18 +45,19 @@ Facilities.ipynb
 
 lapi1122.xlsx
 
-Facilities across U.S HRSA 
+Facilities across U.S data was provided by HRSA 
 
 
 
 
-Complete processed Dataset
+Complete processed Dataset:
 
 HealthCareData.csv
 
 
 
-Economic Indicators
+
+Economic Indicators:
 
 
 
@@ -75,24 +76,37 @@ Sources Personal Income (BEA).csv
 
 
 	
+Instructions:
+
+
 README.md
 
-Instructions
 	
+	
+
+Models/EDA/Visualization:
+
+
 thesis_Task_Hyper.ipynb
 
-Models/EDA/Visualization
 
 
 
 Datasets sources:
 
 
+
 Economic Indicators
+
+
 
 https://www.maine.gov/labor/cwri/county-economic-profiles/countyProfiles.html
 
+
+
 https://www.census.gov/economic-indicators/
+
+
 
 HRSA Health Report (2018-2021)
 
@@ -100,19 +114,38 @@ Health Center Program Uniform Data System (UDS) Data Overview
 
 National Health Center Program Uniform Data System (UDS) Look-Alike Data
 
-Health Center Facilities Interactive Map
+
+
+
 
 https://colab.research.google.com/drive/1z6HSgFseVFEmjWOf4-fYhD8Xcw785zCy?usp=sharing
 
 
-UDS Manual 2021 
+
+
+
+
+
+
+UDS Manual 2021:
+
 
 https://bphc.hrsa.gov/sites/default/files/bphc/data-reporting/2021-uds-manual.pdf
 
 
 
 
+
+
+
 Variables Description
+
+
+
+
+
+
+
 
 Independent Variables : (Census/Maine.gov) Racial and/or Ethnic Minority , Hispanic, Black/African American, Asian, American Indian/Alaska Native, Native Hawaiian / Other Pacific Islander, Patients at or below 200% of poverty, Patients at or below 100% of poverty, Per Capita Personal Income, Civilian Labor Force, Employment, Unemployment, Household Income, Family Population, Population, Number in Poverty, Personal income (thousands of dollars), Average earnings per job (dollars), Net earnings by place of residence, Earnings by place of work, Wages and salaries, Supplements to wages
 
